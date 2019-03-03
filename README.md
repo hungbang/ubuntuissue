@@ -1,4 +1,7 @@
 # ubuntuissue
+## add bashrc to bash_profile
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
 ## to check ubuntu system information: 
 
 ```
